@@ -1,8 +1,8 @@
 
 #####################################################################
 #                                                                   #
-#   Author:	Bloodnighttw                                            #
-#   Github:	https://github.com/bloodnighttw/EtoturPythonPractice    #
+#   Author: Bloodnighttw                                            #
+#   Github: https://github.com/bloodnighttw/EtoturPythonPractice    #
 #                                                                   #
 #####################################################################
 
